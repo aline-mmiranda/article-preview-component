@@ -1,0 +1,7 @@
+:root {
+    --color-very-dark: hsl(217, 19%, 35%);
+    --color-dark: hsl(214, 17%, 51%);
+    --color-soft: hsl(212, 23%, 69%);
+    --color-light: hsl(210, 46%, 95%);
+    --font-family: "Manrope", sans-serif;
+}
